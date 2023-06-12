@@ -13,4 +13,4 @@
 
 ----
 ## Installation
-It is assumed that CUDA is enabled on your device; otherwise,  it should work on a CPU too. The necessary dependencies can be found in [requirements.txt](https://github.com/angelancl/KWS-Using-ImageBind/blob/main/requirements.txt)
+It is assumed that CUDA is enabled on your device; otherwise, it should work on a CPU too. The necessary dependencies can be found in [requirements.txt](https://github.com/angelancl/KWS-Using-ImageBind/blob/main/requirements.txt)
